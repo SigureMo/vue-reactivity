@@ -1,0 +1,14 @@
+# yarn
+.yarn/*
+.yarnrc.yml
+.pnp.js
+yarn-error.log
+
+# Mac
+.DS_Store
+
+# .vscode
+/.vscode/
+
+dist/
+node_modules/
