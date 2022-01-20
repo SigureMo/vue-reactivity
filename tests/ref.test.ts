@@ -1,4 +1,5 @@
-const { ref } = require('../dist/index.js')
+import { test, expect } from 'vitest'
+import { ref } from '../src'
 
 test('test ref', () => {
   const count = ref(0)

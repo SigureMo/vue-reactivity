@@ -1,4 +1,5 @@
-const { reactive } = require('../dist/index.js')
+import { test, expect } from 'vitest'
+import { reactive } from '../src'
 
 test('test reactive', () => {
   const target = {

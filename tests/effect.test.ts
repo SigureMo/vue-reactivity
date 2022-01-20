@@ -1,4 +1,6 @@
-const { effect, ref, reactive } = require('../dist/index.js')
+import { test, expect } from 'vitest'
+import { effect, ref, reactive } from '../src'
+// const { effect, ref, reactive } = require('../dist/index.js')
 
 test('test effect', () => {
   const count = ref(0)
