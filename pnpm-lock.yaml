@@ -1,10 +1,10 @@
 lockfileVersion: 5.3
 
 specifiers:
-  vitest: 0.6.0
+  vitest: 0.6.1
 
 devDependencies:
-  vitest: 0.6.0
+  vitest: 0.6.1
 
 packages:
 
@@ -377,8 +377,8 @@ packages:
       fsevents: 2.3.2
     dev: true
 
-  /vitest/0.6.0:
-    resolution: {integrity: sha512-FuIkLHCQxz6rO35MQROUtVdwcBaYnt198YpPGIrJXmuNHGolfPbrZIiwpD7bek0OiETxuphK3+KR5oJ5Qi1g5A==}
+  /vitest/0.6.1:
+    resolution: {integrity: sha512-rgHgTO3xHCrbgmqYdUz4ViO0g2ekHeOfV60J6+1c6Ypzk1EqCE2sN8IpF4TDGs6BOvWIsVd/ob5c6U4Ozzu92g==}
     engines: {node: '>=14.14.0'}
     hasBin: true
     peerDependencies:
